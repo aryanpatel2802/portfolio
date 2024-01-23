@@ -138,9 +138,7 @@ const ServiceitrFaq = () => {
                       aria-expanded="false"
                       aria-controls="collapseTwo"
                     >
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Tortor fringilla eleifend eget tempor vestibulum id cursus
-                      ?
+                      ddf ?
                     </button>
                   </h2>
                   <div
